@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Alex Fernando 👋💻 
 
 - 🔭 Hoje trabalho como Analista de Suporte N3
-- 🌱 Estou estudando JavaScript, React, NodeJS e MondoDB
+- 🌱 Estou estudando JavaScript, React, NodeJS, MondoDB, PHP, Laravel e Vue.JS
 - 📫 Contate-me no e-mail: alexfsmdevfullstackjs@gmail.com
 
 <div>
@@ -20,6 +20,9 @@
   <img align="center" alt="Alex-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Alex-ExpressJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" alt="Alex-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Alex-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Alex-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Alex-Vue.JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
 </div>
 
 ##
