@@ -5,6 +5,7 @@
 - 📫 Contate-me no e-mail: alexfsmdevfullstackjs@gmail.com
 
 <div>
+  
   <a href="https://github.com/alexfsm1304">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexfsm1304&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfsm1304&layout=compact&langs_count=7&theme=tokyonight"/>
